@@ -1,0 +1,24 @@
+name: skillbridge_plus
+description: SkillBridge+ - Quality Education for All. An offline-first career guidance app for underserved students aligned with SDG 4.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.2
+  provider: ^6.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/careers.json
+    - assets/data/skills.json
