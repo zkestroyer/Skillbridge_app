@@ -4,6 +4,7 @@ import 'package:flutter/services.dart';
 import '../models/career.dart';
 import '../models/quiz_response.dart';
 import 'career_detail_screen.dart';
+import 'progress_screen.dart';
 
 class CareerListScreen extends StatefulWidget {
   final QuizResponse quizResponse;
@@ -99,7 +100,12 @@ class _CareerListScreenState extends State<CareerListScreen> {
                   width: double.infinity,
                   child: FilledButton.icon(
                     onPressed: () {
-                      // Navigate to roadmap or progress screen
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (_) => const ProgressScreen(),
+                        ),
+                      );
                     },
                     icon: const Icon(Icons.map_rounded),
                     label: const Text('View Learning Roadmap'),

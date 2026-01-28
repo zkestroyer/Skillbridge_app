@@ -170,7 +170,13 @@ class CareerDetailScreen extends StatelessWidget {
                     width: double.infinity,
                     child: FilledButton.icon(
                       onPressed: () {
-                        // Navigate to learning resources
+                        ScaffoldMessenger.of(context).showSnackBar(
+                          SnackBar(
+                            content: Text(
+                                'Starting learning path for ${career.title}...'),
+                            duration: const Duration(seconds: 2),
+                          ),
+                        );
                       },
                       icon: const Icon(Icons.school_rounded),
                       label: const Text('Start Learning'),
@@ -184,7 +190,14 @@ class CareerDetailScreen extends StatelessWidget {
                     width: double.infinity,
                     child: OutlinedButton.icon(
                       onPressed: () {
-                        // Share or save
+                        ScaffoldMessenger.of(context).showSnackBar(
+                          SnackBar(
+                            content: Text(
+                                '${career.title} saved to your favorites!'),
+                            duration: const Duration(seconds: 2),
+                            backgroundColor: const Color(0xFF6366F1),
+                          ),
+                        );
                       },
                       icon: const Icon(Icons.bookmark_outline_rounded),
                       label: const Text('Save Career'),
