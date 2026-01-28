@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Programming",
+    "description": "Write and debug code across multiple programming languages",
+    "level": "Intermediate",
+    "relevantCareers": [1, 2, 4, 8],
+    "resources": [
+      "Online coding bootcamps (Codecademy, freeCodeCamp)",
+      "University computer science programs",
+      "GitHub projects for practice"
+    ],
+    "difficulty": "Medium",
+    "timeToLearn": "6-12 months",
+    "icon": "💻"
+  },
+  {
+    "id": 2,
+    "name": "Data Analysis",
+    "description": "Extract insights from data using statistical methods and visualization tools",
+    "level": "Intermediate",
+    "relevantCareers": [2, 4, 7],
+    "resources": [
+      "SQL and Python courses",
+      "Tableau/Power BI training",
+      "Kaggle competitions"
+    ],
+    "difficulty": "Medium",
+    "timeToLearn": "4-8 months",
+    "icon": "📊"
+  },
+  {
+    "id": 3,
+    "name": "Machine Learning",
+    "description": "Build AI models and algorithms that can learn from data",
+    "level": "Advanced",
+    "relevantCareers": [2, 8],
+    "resources": [
+      "Andrew Ng's ML Coursera course",
+      "Fast.ai",
+      "TensorFlow documentation"
+    ],
+    "difficulty": "Hard",
+    "timeToLearn": "12-18 months",
+    "icon": "🤖"
+  },
+  {
+    "id": 4,
+    "name": "UI/UX Design",
+    "description": "Create user-friendly and aesthetically pleasing digital interfaces",
+    "level": "Intermediate",
+    "relevantCareers": [3, 4],
+    "resources": [
+      "Adobe XD/Figma tutorials",
+      "Design bootcamps",
+      "Interaction Design Foundation"
+    ],
+    "difficulty": "Medium",
+    "timeToLearn": "6-12 months",
+    "icon": "🎨"
+  },
+  {
+    "id": 5,
+    "name": "Project Management",
+    "description": "Plan, execute, and monitor projects to deliver results on time and budget",
+    "level": "Intermediate",
+    "relevantCareers": [4, 6, 7],
+    "resources": [
+      "PMP or CAPM certification",
+      "Scrum Master certification",
+      "Project management software training"
+    ],
+    "difficulty": "Medium",
+    "timeToLearn": "3-6 months",
+    "icon": "📋"
+  },
+  {
+    "id": 6,
+    "name": "Communication",
+    "description": "Express ideas clearly and listen actively in professional settings",
+    "level": "Beginner",
+    "relevantCareers": [1, 3, 4, 5, 7],
+    "resources": [
+      "Toastmasters clubs",
+      "Writing workshops",
+      "Public speaking courses"
+    ],
+    "difficulty": "Easy",
+    "timeToLearn": "Ongoing development",
+    "icon": "🗣️"
+  },
+  {
+    "id": 7,
+    "name": "Cybersecurity",
+    "description": "Protect systems and networks from digital attacks and threats",
+    "level": "Advanced",
+    "relevantCareers": [8],
+    "resources": [
+      "CompTIA Security+ certification",
+      "Ethical hacking courses",
+      "Cybersecurity bootcamps"
+    ],
+    "difficulty": "Hard",
+    "timeToLearn": "12-24 months",
+    "icon": "🔒"
+  },
+  {
+    "id": 8,
+    "name": "Sustainability & Environmental Science",
+    "description": "Understand and implement sustainable practices and environmental solutions",
+    "level": "Intermediate",
+    "relevantCareers": [6, 9],
+    "resources": [
+      "Environmental science courses",
+      "Sustainability certifications",
+      "LEED training programs"
+    ],
+    "difficulty": "Medium",
+    "timeToLearn": "6-12 months",
+    "icon": "🌱"
+  },
+  {
+    "id": 9,
+    "name": "Digital Marketing",
+    "description": "Promote products/services using digital channels and analytics",
+    "level": "Intermediate",
+    "relevantCareers": [10, 4],
+    "resources": [
+      "Google Analytics Academy",
+      "HubSpot Academy",
+      "Social media marketing courses"
+    ],
+    "difficulty": "Medium",
+    "timeToLearn": "4-8 months",
+    "icon": "📱"
+  },
+  {
+    "id": 10,
+    "name": "Problem-Solving & Critical Thinking",
+    "description": "Analyze complex challenges and develop effective solutions",
+    "level": "Beginner",
+    "relevantCareers": [1, 2, 6, 7, 8],
+    "resources": [
+      "Logic puzzles and brain teasers",
+      "Case study analysis",
+      "Design thinking workshops"
+    ],
+    "difficulty": "Easy",
+    "timeToLearn": "Ongoing development",
+    "icon": "🧠"
+  }
+]

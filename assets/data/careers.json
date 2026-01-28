@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Software Developer",
+    "description": "Create and maintain software applications across web, mobile, and desktop platforms",
+    "salary": "$80,000 - $150,000",
+    "demand": "Very High",
+    "skills": ["programming", "problem-solving", "version-control", "testing"],
+    "education": "Bachelor's in Computer Science or related field",
+    "workEnvironment": "Office/Remote, Collaborative",
+    "growthOpportunity": "High - Tech industry is booming",
+    "icon": "💻"
+  },
+  {
+    "id": 2,
+    "title": "Data Scientist",
+    "description": "Analyze complex datasets to help organizations make data-driven decisions",
+    "salary": "$90,000 - $170,000",
+    "demand": "Very High",
+    "skills": ["statistics", "python", "machine-learning", "data-visualization"],
+    "education": "Bachelor's/Master's in Data Science, Statistics, or related field",
+    "workEnvironment": "Office/Remote, Analytical",
+    "growthOpportunity": "Very High - AI and ML are transforming industries",
+    "icon": "📊"
+  },
+  {
+    "id": 3,
+    "title": "UX/UI Designer",
+    "description": "Design intuitive and beautiful user interfaces for digital products",
+    "salary": "$70,000 - $130,000",
+    "demand": "High",
+    "skills": ["design-thinking", "prototyping", "user-research", "visual-design"],
+    "education": "Bachelor's in Design or related field, or portfolio-based",
+    "workEnvironment": "Office/Remote, Creative",
+    "growthOpportunity": "High - Every company needs good design",
+    "icon": "🎨"
+  },
+  {
+    "id": 4,
+    "title": "Product Manager",
+    "description": "Guide the strategy and development of digital products",
+    "salary": "$100,000 - $180,000",
+    "demand": "High",
+    "skills": ["strategy", "communication", "leadership", "analytics"],
+    "education": "Bachelor's degree, MBA preferred",
+    "workEnvironment": "Office/Remote, Leadership-focused",
+    "growthOpportunity": "High - Path to executive leadership",
+    "icon": "📈"
+  },
+  {
+    "id": 5,
+    "title": "Healthcare Technician",
+    "description": "Support medical professionals and maintain medical equipment",
+    "salary": "$35,000 - $60,000",
+    "demand": "High",
+    "skills": ["medical-knowledge", "attention-to-detail", "patient-care", "equipment-maintenance"],
+    "education": "Associate's degree or Certification program",
+    "workEnvironment": "Hospital/Clinic, Patient-facing",
+    "growthOpportunity": "Medium - High job security",
+    "icon": "🏥"
+  },
+  {
+    "id": 6,
+    "title": "Environmental Engineer",
+    "description": "Develop solutions to environmental challenges and sustainability issues",
+    "salary": "$65,000 - $120,000",
+    "demand": "Medium",
+    "skills": ["environmental-science", "problem-solving", "sustainability", "project-management"],
+    "education": "Bachelor's in Environmental Engineering",
+    "workEnvironment": "Field/Office, Mission-driven",
+    "growthOpportunity": "Very High - Growing green economy",
+    "icon": "🌱"
+  },
+  {
+    "id": 7,
+    "title": "Business Analyst",
+    "description": "Improve business operations by analyzing processes and implementing solutions",
+    "salary": "$60,000 - $110,000",
+    "demand": "High",
+    "skills": ["analysis", "communication", "business-acumen", "documentation"],
+    "education": "Bachelor's degree in Business or related field",
+    "workEnvironment": "Office/Remote, Collaborative",
+    "growthOpportunity": "High - Gateway to management roles",
+    "icon": "💼"
+  },
+  {
+    "id": 8,
+    "title": "Cybersecurity Specialist",
+    "description": "Protect digital systems and data from cyber threats",
+    "salary": "$85,000 - $160,000",
+    "demand": "Very High",
+    "skills": ["network-security", "risk-assessment", "threat-analysis", "compliance"],
+    "education": "Bachelor's in Cybersecurity or related field",
+    "workEnvironment": "Office/Remote, High responsibility",
+    "growthOpportunity": "Very High - Critical for all organizations",
+    "icon": "🔒"
+  },
+  {
+    "id": 9,
+    "title": "Renewable Energy Technician",
+    "description": "Install, maintain, and repair renewable energy systems like solar panels",
+    "salary": "$45,000 - $85,000",
+    "demand": "Very High",
+    "skills": ["technical-skills", "safety", "electrical-knowledge", "problem-solving"],
+    "education": "Associate's degree or Certification",
+    "workEnvironment": "Field-based, Hands-on",
+    "growthOpportunity": "Very High - Fastest growing sector",
+    "icon": "⚡"
+  },
+  {
+    "id": 10,
+    "title": "Digital Marketing Specialist",
+    "description": "Develop and execute digital marketing strategies to reach and engage audiences",
+    "salary": "$50,000 - $100,000",
+    "demand": "High",
+    "skills": ["social-media", "analytics", "content-creation", "seo"],
+    "education": "Bachelor's in Marketing or related field",
+    "workEnvironment": "Office/Remote, Creative",
+    "growthOpportunity": "High - Constantly evolving field",
+    "icon": "📱"
+  }
+]
